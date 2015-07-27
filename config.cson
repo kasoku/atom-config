@@ -1,0 +1,16 @@
+"*":
+  "exception-reporting":
+    userId: "875c8ea1-746b-6f37-f3a9-0736203d8a32"
+  welcome:
+    showOnStartup: false
+  minimap: {}
+  localization:
+    CurrentLanguage: "Default"
+  core: {}
+  editor:
+    invisibles: {}
+    fontSize: 17
+  "git-diff":
+    showIconsInEditorGutter: true
+  "git-history": {}
+  "git-log": {}
