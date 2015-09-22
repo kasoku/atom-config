@@ -9,8 +9,17 @@
   core: {}
   editor:
     invisibles: {}
-    fontSize: 17
+    fontSize: 20
+    showIndentGuide: true
+    softWrap: true
+    scrollPastEnd: true
+    softWrapAtPreferredLineLength: true
+    showInvisibles: true
   "git-diff":
     showIconsInEditorGutter: true
   "git-history": {}
   "git-log": {}
+  "atom-color-highlight":
+    markersAtEndOfLine: true
+    hideMarkersInComments: true
+    hideMarkersInStrings: true
